@@ -1,4 +1,4 @@
-# HAZESOFT-T3
+
 This has called backup.sh that ask you to enter the the path of a directory to back up. The script create a compressed tar archive of the current directory, save it with a timestamped name in a specified backup directory, and print a message indicating whether the backup was successful or not.
 
 ## HOw it works
